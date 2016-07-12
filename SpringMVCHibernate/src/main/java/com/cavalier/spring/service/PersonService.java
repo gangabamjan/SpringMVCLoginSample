@@ -3,7 +3,7 @@ package com.cavalier.spring.service;
 import java.util.List;
 
 import com.cavalier.spring.model.Person;
-
+///////////////////interface design pattern////////////////////////
 public interface PersonService {
 
 	public void addPerson(Person p);
